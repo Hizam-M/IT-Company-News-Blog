@@ -1,1 +1,1 @@
-https://IT-Company-News-Blog/IT-Blog.html
+https://IT-Company-News-Blog.github.io/IT-Blog.html
