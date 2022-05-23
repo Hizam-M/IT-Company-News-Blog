@@ -1,1 +1,1 @@
-https://hizam-m.github.io/IT-Company-News-Blog/
+https://hizam-m.github.io/IT-Company-News-Blog/IT-Blog.html
